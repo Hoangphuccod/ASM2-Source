@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\WaterBillManagement\WaterBillManagement\bin\Debug\WaterBillManagement.exe.config
+C:\Users\ADMIN\source\repos\WaterBillManagement\WaterBillManagement\bin\Debug\WaterBillManagement.exe
+C:\Users\ADMIN\source\repos\WaterBillManagement\WaterBillManagement\bin\Debug\WaterBillManagement.pdb
+C:\Users\ADMIN\source\repos\WaterBillManagement\WaterBillManagement\obj\Debug\WaterBillManagement.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\WaterBillManagement\WaterBillManagement\obj\Debug\WaterBillManagement.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\WaterBillManagement\WaterBillManagement\obj\Debug\WaterBillManagement.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\WaterBillManagement\WaterBillManagement\obj\Debug\WaterBillManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\WaterBillManagement\WaterBillManagement\obj\Debug\WaterBillManagement.exe
+C:\Users\ADMIN\source\repos\WaterBillManagement\WaterBillManagement\obj\Debug\WaterBillManagement.pdb
+C:\Users\ADMIN\source\repos\WaterBillManagement\WaterBillManagement\obj\Debug\WaterBillManagement.row.resources
